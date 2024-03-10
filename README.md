@@ -1,8 +1,6 @@
 # RubyAiBridge
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ruby_ai_bridge`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+RubyAIBridge offers a unified interface for integrating and managing multiple AI language models within Ruby applications. Streamline the process of executing AI-driven tasks, managing templates and contexts, and handling background jobs with ease.
 
 ## Installation
 
